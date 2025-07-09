@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi there, I'm SeyHa Theoun!
 
-<!--
-**seyha-theoun/seyha-theoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A passionate **Frontend Developer** and tech enthusiast with a love for creating modern, responsive web applications.  
+💻 Currently exploring full-stack development and building real-world projects using **React.js**, **Tailwind CSS**, **PHP**, and **MySQL**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Interests
+
+- 🔭 I’m currently working on:
+  - A modern **Healthcare Dashboard UI** using Tailwind CSS and PHP
+  - An **Online Food Ordering System** project
+  - A frontend portfolio with light/dark mode, animations, and dynamic content
+
+- 🌱 I’m currently learning:
+  - **Laravel** for backend development
+  - **React Router**, **API Integration**, and **form validation** in React.js
+  - Better Git & GitHub workflows for collaboration
+
+- 👯 I’m looking to collaborate on:
+  - Open-source frontend projects
+  - Responsive UI/UX-based projects
+  - Educational tech platforms
+
+---
+
+### 🛠️ Tech Stack
+
+```js
+Frontend:  React.js, Tailwind CSS, HTML, CSS, JavaScript  
+Backend:   PHP, MySQL, Laravel (learning)  
+Tools:     Git, GitHub, VS Code, Postman  
+Design:    Figma, UX Pilot (Prototype/Design)
